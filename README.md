@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-Desafio da rocketseat, para iniciantes praticarem suas habilidades em HTML,CSS e Javascript aprendidos na trilha discover.
+Desafio da rocketseat, para iniciantes praticarem suas habilidades em HTML, CSS e Javascript aprendidos na trilha discover.
 
 ## 🛠 Tecnologias
 
