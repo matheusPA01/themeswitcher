@@ -1,6 +1,6 @@
 ## <h1 align="center">Theme Switcher</h1>
 
-<p align="center"> Esse é um projeto bem simples pra mim praticar o que eu estudar e ir colocando em prática.</p>
+<p align="center"> Esse é um projeto bem simples para estudar e praticar.</p>
 
 ---
 
